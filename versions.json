@@ -1,26 +1,26 @@
 {
   "neato": {
-    "version": "1.0.7"
+    "version": "1.0.8"
   },
   "redmatic": {
     "version": "7.4.1"
   },
   "matterbridge": {
-    "version": "2.0.2"
+    "version": "2.0.3"
   },
   "marstek": {
-    "version": "1.0.8"
+    "version": "1.0.9"
   },
   "aedes": {
-    "version": "2.0.2"
+    "version": "2.0.3"
   },
   "zigbee2mqtt": {
     "version": "2.4.4"
   },
   "mqtt2cuxd": {
-    "version": "2.2.0"
+    "version": "2.2.1"
   },
   "mqtt2sysvar": {
-    "version": "2.2.1"
+    "version": "2.2.2"
   }
 }
