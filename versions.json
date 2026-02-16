@@ -12,7 +12,7 @@
     "version": "1.0.9"
   },
   "aedes": {
-    "version": "2.0.3"
+    "version": "2.0.4"
   },
   "zigbee2mqtt": {
     "version": "2.4.4"
