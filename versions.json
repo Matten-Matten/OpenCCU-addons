@@ -15,7 +15,7 @@
     "version": "2.0.4"
   },
   "zigbee2mqtt": {
-    "version": "2.4.4"
+    "version": "2.4.5"
   },
   "mqtt2cuxd": {
     "version": "2.2.1"
