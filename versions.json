@@ -18,9 +18,9 @@
     "version": "2.14.2"
   },
   "mqtt2cuxd": {
-    "version": "2.2.1"
+    "version": "2.3.0"
   },
   "mqtt2sysvar": {
-    "version": "2.2.2"
+    "version": "2.3.0"
   }
 }
